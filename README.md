@@ -1,1 +1,1 @@
-# rapide
+# Rapid

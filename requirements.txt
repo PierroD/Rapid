@@ -1,0 +1,5 @@
+fastapi
+fastapi-crudrouter-mongodb
+fastapi-query-parameter-model
+uvicorn
+setuptoolshttps://signoz.io/guides/docker-view-logs/
